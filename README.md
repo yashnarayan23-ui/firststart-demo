@@ -1,2 +1,2 @@
 # firststart-demo
-Author - Yash Narayan
+Author - Yash Narayan Dwivedi
